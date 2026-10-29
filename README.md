@@ -218,8 +218,8 @@ jupyter notebook walmart_eda.ipynb
 ## 👤 Author & Developer
 
 **Akash**
-- **GitHub**: [@Altaire3306](https://github.com/Altaire3306)
-- **Email**: [rrronitaj3306@gmail.com](mailto:rrronitaj3306@gmail.com)
+- **GitHub**: [@akash3005-arc](https://github.com/akash3005-arc)
+
 
 ---
 
