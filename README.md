@@ -217,7 +217,7 @@ jupyter notebook walmart_eda.ipynb
 
 ## 👤 Author & Developer
 
-**Ronit Raj**
+**Akash**
 - **GitHub**: [@Altaire3306](https://github.com/Altaire3306)
 - **Email**: [rrronitaj3306@gmail.com](mailto:rrronitaj3306@gmail.com)
 
